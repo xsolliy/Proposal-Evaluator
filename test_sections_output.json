@@ -1,0 +1,26 @@
+{
+  "final_output_sections": {},
+  "sections_result_sections": {
+    "abstract": null,
+    "introduction": null,
+    "literature_review": null,
+    "objectives": null,
+    "questions": null,
+    "hypotheses": null,
+    "methodology": null,
+    "findings": null,
+    "discussion": null,
+    "references": null,
+    "appendix": null
+  },
+  "detected_sections": [],
+  "missing_required": [
+    "abstract",
+    "introduction",
+    "methodology",
+    "references"
+  ],
+  "completeness_score": 0.0,
+  "normalized_text_preview": "پروپوزال تست این یک پروپوزال تست است برای بررسی عملکرد سیستم ارزیابی هوشمند پروپوزال‌های فارسی.",
+  "raw_text_preview": "پروپوزال تست\n\nاین یک پروپوزال تست است برای بررسی عملکرد سیستم ارزیابی هوشمند پروپوزال‌های فارسی."
+}
